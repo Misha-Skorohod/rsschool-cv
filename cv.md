@@ -17,4 +17,6 @@ _____
 ### Skills
 1. JavaScript (Basic);
 2. HTML (Basic);
-3. CSS (Basic) 
+3. CSS (Basic)
+
+-----
