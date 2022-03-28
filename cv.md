@@ -36,12 +36,23 @@ _____
 ```
 -----
 
+### English
+
+A2
+
+-----
+
+### Courses
+
+- JavaScript (https://ru.code-basics.com/languages/javascript)
+- HTML (https://ru.code-basics.com/languages/html)
+- CSS (https://ru.code-basics.com/languages/css)
+
+-----
+
 ### Contacts
 
 #### ***Phone***: +375292784450
 #### ***E-mail***: Sim-Sim.88@mail.ru
 #### ***GitHub***: https://github.com/Misha-Skorohod
 #### ***Location***: Minsk, Belarus
-
-_____
-
